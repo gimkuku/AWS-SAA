@@ -1,4 +1,3 @@
-[##_Image|kage@bSqldO/btrpMPTWbzA/71fuso2dgnDPvu4GJeKddK/img.png|CDM|1.3|{"originWidth":400,"originHeight":373,"style":"alignCenter"}_##]
 
 #### IAM
 
