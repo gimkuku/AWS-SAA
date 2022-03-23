@@ -8,4 +8,5 @@
 - [3. EC2(2)](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/3_EC2(2).md)
 - [4. EBS 와 EFS](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/4_InstanceStorageSection.md)
 - [5. Load Balacer](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/5_LoadBalancing.md)
-- [6. RDS](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/1_IAM.md)
+- [6. RDS](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/6_RDS.md)
+- [7. Aurora](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/7_Aurora.md)
