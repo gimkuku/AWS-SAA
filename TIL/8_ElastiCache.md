@@ -17,7 +17,7 @@
     
     → 찾으면 : Cache hit
     
-    → 못찾으면 : Cache miss → DB로부터 읽어옴 → Cachedp wjrdma 
+    → 못찾으면 : Cache miss → DB로부터 읽어옴 → Cache에 적음 
     
     ⇒ DB를 매번 뒤지지 않아도 됨 = 빠른 속도
     
@@ -58,4 +58,5 @@
 
 - SASL- based authentication을 제공
     > SASL
+    >
     > Simple Authentication and Security Layer : 인증과 데이터보안을 위한 프레임워크
