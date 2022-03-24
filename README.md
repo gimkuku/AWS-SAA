@@ -10,3 +10,4 @@
 - [5. Load Balacer](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/5_LoadBalancing.md)
 - [6. RDS](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/6_RDS.md)
 - [7. Aurora](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/7_Aurora.md)
+- [8. ElastiCache](https://github.com/gimkuku/AWS-SAA/blob/master/TIL/8_ElastiCache.md)
