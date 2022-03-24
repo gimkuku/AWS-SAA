@@ -38,15 +38,11 @@
 | Redis | Memcached |
 | --- | --- |
 | 다중 가용영역 & 자동 복구 | 멀티 노드 (샤딩) |
-| read replica로 읽기 성능 scale 
-& 높은 가용성 | 가용성 별로 |
-| AOF 방식의 데이터 쓰기 
-→ 매번 수정시마다 쓰기 때문에 Data Durability | 지속성 별로 |
+| read replica로 읽기 성능 scale & 높은 가용성 | 가용성 별로 |
+| AOF 방식의 데이터 쓰기 → 매번 수정시마다 쓰기 때문에 Data Durability | 지속성 별로 |
 | 복구 & 회복 간단 | 복구 회복 힘듬 |
-| single threaded architecture
-→ 한번에 한개의 명령만 실행 | multi-threaded architecture |
-| 잡다한 기능이 많음
-ex ) Redis Sorted sets로 게임 실시간 랭킹보드 만들기  | 잡다한 기능 없음 |
+| single threaded architecture → 한번에 한개의 명령만 실행 | multi-threaded architecture |
+| 잡다한 기능이 많음 ex ) Redis Sorted sets로 게임 실시간 랭킹보드 만들기  | 잡다한 기능 없음 |
 
 ### Cache Security
 
